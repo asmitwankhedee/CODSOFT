@@ -36,27 +36,9 @@ This project predicts whether a passenger survived the Titanic disaster using Ma
 ## 📊 Model Performance
 The model achieved an accuracy of **81%**, indicating good performance on the dataset.
 
----
-
-## 📸 Output Screenshot
-<!-- Add your image here -->
-![Confusion Matrix](your-image-link-here)
-
----
-
-## ▶️ Demo
-<!-- Add your video link here -->
-[Project Video](your-video-link-here)
-
----
 
 ## 💡 Future Improvements
 - Improve accuracy using hyperparameter tuning  
 - Try advanced models like XGBoost  
 - Deploy as a web application  
-
----
-
-## 📬 Contact
-**Asmit Rajendra Wankhede**  
-Aspiring Data Scientist  
+ 
